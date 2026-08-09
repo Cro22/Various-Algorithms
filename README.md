@@ -21,9 +21,10 @@ Problem Name/
 
 | Problem | Languages |
 | --- | --- |
-| [ATM](./ATM) | JS |
+| [ATM Queue](./ATM%20Queue) | JS |
 | [Check if Word Can Be Placed In Crossword](./Check%20if%20Word%20Can%20Be%20Placed%20In%20Crossword) | JS |
 | [Count the Number of Incremovable Subarrays II](./Count%20the%20Number%20of%20Incremovable%20Subarrays%20II) | JS |
+| [Design an ATM Machine](./Design%20an%20ATM%20Machine) | JS |
 | [Find Champion II](./Find%20Champion%20II) | JS |
 | [Find Words Containing Character](./Find%20Words%20Containing%20Character) | JS |
 | [Gas Station](./Gas%20Station) | JS |
