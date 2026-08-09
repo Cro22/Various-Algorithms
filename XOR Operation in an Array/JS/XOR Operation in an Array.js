@@ -10,5 +10,3 @@ const xorOperation = function (n, start) {
     }
     return bitwizeXOR
 };
-// TEST CASE
-console.log(xorOperation(n = 4, start = 3))

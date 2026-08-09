@@ -28,5 +28,3 @@ function lastUsers(users, k) {
     }
     return returnUsers.concat(lastUsers(otherUsers, k))
 }
-
-console.log(getFinalOrder(2, [6,1,2,3,2,7]))

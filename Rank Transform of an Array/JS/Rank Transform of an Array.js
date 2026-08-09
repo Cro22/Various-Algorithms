@@ -13,5 +13,3 @@ function arrayRankTransform(arr) {
     }
     return arr;
 }
-
-console.log(arrayRankTransform([40, 10, 20, 30]));

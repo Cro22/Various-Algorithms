@@ -48,4 +48,3 @@ function maxProductPath(grid) {
     const res = maxDP[m - 1][n - 1];
     return res < 0n ? -1 : Number(res % MOD);
 };
-console.log(maxProductPath([[-1, -2, -3], [-2, -3, -3], [-3, -3, -2]]));

@@ -25,5 +25,3 @@ function stoneGameII(piles) {
 
     return dp(0, 1);
 }
-
-console.log(stoneGameII([2, 7, 9, 4, 4]));
